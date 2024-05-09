@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.second-container {
+  height: 400px;
+  width: 400px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.light-mode {
+  background-color: white;
+}
+.dark-mode {
+  background-color: black;
+}
+.paraWhite {
+  color: white;
+}
+.paraBlack {
+  color: black;
+}
+.headingWelcome{
+  font-size: 30px;
+}
+.paraWhite{
+  color: white;
+}
+.paraBlack{
+  color: black;
+}
